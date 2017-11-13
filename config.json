@@ -1,0 +1,7 @@
+{
+    "RedisAddr": "127.0.0.1:6379",
+    "RedisAuth": "hehehe",
+    "RedisIndex": 1,
+    "MysqlStr": "root:system@tcp(127.0.0.1:3306)/game",
+    "HttpAddr": ":80"
+}
